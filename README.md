@@ -50,19 +50,10 @@ This is a simple internal dashboard for visualizing business and user engagement
 
 ## 📥 Setup Instructions
 
-- **Install dependencies:**
+- **Install dependencies:** pip install fastapi psycopg2 uvicorn
 
-pip install fastapi psycopg2 uvicorn
-
-- **Run FastAPI backend:**
-
-
-uvicorn main:app --reload
-
-
+- **Run FastAPI backend:** uvicorn main:app --reload
 
 - **Open browser at: http://127.0.0.1:8000**
-
-
 
 - **The HTML file is served from `/static/index.html`**
