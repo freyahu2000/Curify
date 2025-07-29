@@ -1,6 +1,8 @@
 # Curify Business Metrics Dashboard
 
 This is a simple internal dashboard for visualizing business and user engagement metrics on Curify Studio. It is built with **FastAPI** (Python backend) and a responsive **HTML/Chart.js** frontend.
+![image](https://github.com/user-attachments/assets/4f942713-d53b-4a14-a00c-7449eff6ceac)
+
 
 
 ## 📊 Metrics Tracked
